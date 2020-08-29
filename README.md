@@ -1,2 +1,2 @@
-# My-Library
-My own library with bounce off and is touching algorithm
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
